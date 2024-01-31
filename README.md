@@ -1,4 +1,4 @@
-##Layoff Analysis 2020 - 2024##
+##Layoff Analysis 2020 - 2024
 
 **Description:**
 
