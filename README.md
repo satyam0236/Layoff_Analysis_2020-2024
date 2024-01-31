@@ -1,4 +1,4 @@
-**Project Title: Layoff Analysis with Jupyter Notebook**
+##Layoff Analysis 2020 - 2024##
 
 **Description:**
 
@@ -22,8 +22,6 @@ Contributions and feedback are welcome from the community to enrich the analysis
 **Acknowledgments:**
 We extend our gratitude to the open-source community for their invaluable contributions, as well as to the organizations and individuals who have provided access to data for this analysis.
 
-**License:**
-This project is licensed under [insert license here]. Please refer to the LICENSE file for more details.
 
 **Get Involved:**
 - Fork this repository and submit pull requests to contribute.
